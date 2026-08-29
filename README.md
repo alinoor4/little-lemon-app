@@ -359,18 +359,4 @@ Created as part of a Django REST Framework learning project.
 
 For issues and questions, please open an issue on the GitHub repository.
 
-## Future Enhancements
-
-- [ ] Implement filtering and search on menu items
-- [ ] Add pagination to list endpoints
-- [ ] Implement user profiles and user management
-- [ ] Add restaurant ratings and reviews
-- [ ] Implement order management system
-- [ ] Add payment integration
-- [ ] Implement API documentation with Swagger/OpenAPI
-- [ ] Add rate limiting
-- [ ] Implement caching strategies
-
----
-
 **Last Updated**: August 2026
